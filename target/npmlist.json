@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "generator-vue3-vite4-ts5-axios-pinia-template",
+  "dependencies": {
+    "chalk": { "version": "2.4.2" },
+    "yeoman-generator": { "version": "3.2.0" },
+    "yosay": { "version": "2.0.2" }
+  }
+}
